@@ -21,7 +21,7 @@ body {
 :root {
 
   /* Paramètres */
-  --nom-marque: 'NSA';
+  --nom-marque: 'NSA Institut';
   --taille-logo: 30px;
   --fichier-logo: url("./public/logo@2x.png");
 
